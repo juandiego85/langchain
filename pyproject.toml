@@ -16,6 +16,8 @@ dependencies = [
     "ipykernel>=7.4.0",
     "langsmith>=0.14.11",
     "langchain-tavily>=0.2.18",
+    "langchain-mcp-adapters>=0.3.2",
+    "mcp>=1.30.0",
 ]
 
 [project.scripts]
