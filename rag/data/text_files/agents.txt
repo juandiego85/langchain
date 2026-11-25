@@ -1,0 +1,12 @@
+ Agents
+Intelligent agents are considered by many to be the ultimate goal of AI. The classic
+book by Stuart Russell and Peter Norvig, Artificial Intelligence: A Modern Approach
+(Prentice Hall, 1995) defines the field of artificial intelligence research as “the study
+and design of rational agents.”
+The unprecedented capabilities of foundation models have opened the door to
+agentic applications that were previously unimaginable. These new capabilities make
+it finally possible to develop autonomous, intelligent agents to act as our assistants,
+coworkers, and coaches. They can help us create a website, gather data, plan a trip, do
+market research, manage a customer account, automate data entry, prepare us for
+interviews, interview our candidates, negotiate a deal, etc. The possibilities seem end‐
+less, and the potential economic value of these agents is enormous.

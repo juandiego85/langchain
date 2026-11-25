@@ -18,6 +18,12 @@ dependencies = [
     "langchain-tavily>=0.2.18",
     "langchain-mcp-adapters>=0.3.2",
     "mcp>=1.30.0",
+    "langchain-core>=1.6.12",
+    "pypdf>=7.1.0",
+    "pymupdf>=2.1",
+    "sentence-transformers>=6.3.0",
+    "faiss-cpu>=1.16.0",
+    "chromadb>=1.5.9",
 ]
 
 [project.scripts]

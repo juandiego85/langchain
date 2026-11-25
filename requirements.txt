@@ -1,6 +1,7 @@
 langgraph
 langsmith
 langchain
+langchain-core
 langchain_community
 langchain-openai
 langchain-groq
@@ -10,3 +11,9 @@ langchain_tavily
 
 langchain-mcp-adapters
 mcp
+
+pypdf
+pymupdf
+sentence-transformers
+faiss-cpu
+chromadb

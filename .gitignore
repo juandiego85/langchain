@@ -16,3 +16,7 @@ wheels/
 
 # Jupyter notebook checkpoints
 .ipynb_checkpoints/
+
+# Generated vector databases
+/rag/data/vector_store/
+/rag/data/faiss_store/
