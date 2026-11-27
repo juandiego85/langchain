@@ -18,5 +18,5 @@ wheels/
 .ipynb_checkpoints/
 
 # Generated vector databases
-/rag/data/vector_store/
-/rag/data/faiss_store/
+/4. rag/data/vector_store/
+/4. rag/data/faiss_store/

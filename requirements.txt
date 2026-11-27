@@ -17,3 +17,10 @@ pymupdf
 sentence-transformers
 faiss-cpu
 chromadb
+
+pageindex
+openai
+
+deepagents
+ipykernel
+tavily-python

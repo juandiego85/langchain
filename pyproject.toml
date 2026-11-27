@@ -24,6 +24,10 @@ dependencies = [
     "sentence-transformers>=6.3.0",
     "faiss-cpu>=1.16.0",
     "chromadb>=1.5.9",
+    "pageindex>=0.7.5",
+    "openai>=3.35.1",
+    "deepagents>=0.7.30",
+    "tavily-python>=0.8.5",
 ]
 
 [project.scripts]
